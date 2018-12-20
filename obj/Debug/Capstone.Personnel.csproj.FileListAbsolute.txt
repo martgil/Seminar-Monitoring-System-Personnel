@@ -1,0 +1,120 @@
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe.config
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Capstone.Personnel.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.csprojAssemblyReference.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Initializer.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Properties.Resources.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.GenerateResource.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CopyComplete
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.exe
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Login.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.PersonnelDashboard.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.presentation.dll
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.presentation.pdb
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\bin\Debug\zxing.presentation.xml
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uRegister.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uCollege.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uGenerate.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendance.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendeeUpdate.resources
+C:\Users\windows\Documents\Visual Studio 2017\Projects\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uOnRegister.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.csprojAssemblyReference.cache
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendance.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendeeUpdate.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uCollege.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uGenerate.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uOnRegister.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uRegister.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Initializer.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Login.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.PersonnelDashboard.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.Properties.Resources.resources
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.GenerateResource.cache
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.exe
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.pdb
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe.config
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\Capstone.Personnel.pdb
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.dll
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.presentation.dll
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.pdb
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.xml
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.presentation.pdb
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\bin\Debug\zxing.presentation.xml
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CopyComplete
+C:\Users\Mart\Documents\pasted\Project.QR\Capstone.Personnel\obj\Debug\Capstone.Personnel.ChangePassword.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe.config
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\Capstone.Personnel.pdb
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.dll
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.presentation.dll
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.pdb
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.xml
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.presentation.pdb
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\bin\Debug\zxing.presentation.xml
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendance.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendeeUpdate.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uCollege.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uGenerate.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uOnRegister.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uRegister.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.ChangePassword.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Initializer.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Login.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.PersonnelDashboard.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.Properties.Resources.resources
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.GenerateResource.cache
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CoreCompileInputs.cache
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CopyComplete
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.exe
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.pdb
+C:\Users\Zero\Documents\CodeProjects\csharp\Capstone.Personnel\obj\Debug\Capstone.Personnel.csprojAssemblyReference.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe.config
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\Capstone.Personnel.exe
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\Capstone.Personnel.pdb
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.presentation.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.pdb
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.xml
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.presentation.pdb
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\zxing.presentation.xml
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.csprojAssemblyReference.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendance.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uAttendeeUpdate.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uGenerate.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uOnRegister.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uRegister.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.ChangePassword.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Initializer.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Login.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.PersonnelDashboard.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Properties.Resources.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.GenerateResource.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CoreCompileInputs.cache
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.csproj.CopyComplete
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.exe
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.pdb
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.UserProfile.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.ChangeUsername.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.UpdateName.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.BluetoothDeviceChooser.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Actions.uDashboard.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.Affiliation.resources
+C:\Users\Mart\Documents\CapstoneFinals\Capstone-09-21-2018\Capstone.Personnel\obj\Debug\Capstone.Personnel.ContactNumber.resources

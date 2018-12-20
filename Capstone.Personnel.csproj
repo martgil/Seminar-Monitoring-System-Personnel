@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5808C6CB-EAB5-42F9-A113-C6644247F54B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Capstone.Personnel</RootNamespace>
+    <AssemblyName>Capstone.Personnel</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>bulsu_colored_drR_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Project.QR\BackupSource\8-8-2018\Capstone.QR\bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="InTheHand.Net.Personal">
+      <HintPath>..\..\..\..\source\repos\BluetoothDemo\bin\Debug\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.4\lib\net461\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.4.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.4\lib\net461\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\uAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uAttendance.Designer.cs">
+      <DependentUpon>uAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\uAttendeeUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uAttendeeUpdate.Designer.cs">
+      <DependentUpon>uAttendeeUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\uDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uDashboard.Designer.cs">
+      <DependentUpon>uDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\uGenerate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uGenerate.Designer.cs">
+      <DependentUpon>uGenerate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\uOnRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uOnRegister.Designer.cs">
+      <DependentUpon>uOnRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actions\uRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Actions\uRegister.Designer.cs">
+      <DependentUpon>uRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Affiliation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Affiliation.Designer.cs">
+      <DependentUpon>Affiliation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BluetoothDeviceChooser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BluetoothDeviceChooser.Designer.cs">
+      <DependentUpon>BluetoothDeviceChooser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeUsername.Designer.cs">
+      <DependentUpon>ChangeUsername.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContactNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContactNumber.Designer.cs">
+      <DependentUpon>ContactNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initializer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Initializer.Designer.cs">
+      <DependentUpon>Initializer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonnelDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonnelDashboard.Designer.cs">
+      <DependentUpon>PersonnelDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tools\Config.cs" />
+    <Compile Include="Tools\SqlUtils.cs" />
+    <Compile Include="Tools\Windows.cs" />
+    <Compile Include="UpdateName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateName.Designer.cs">
+      <DependentUpon>UpdateName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\QrHelper.cs" />
+    <Compile Include="Utilities\UserInfo.cs" />
+    <EmbeddedResource Include="Actions\uAttendance.resx">
+      <DependentUpon>uAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\uAttendeeUpdate.resx">
+      <DependentUpon>uAttendeeUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\uDashboard.resx">
+      <DependentUpon>uDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\uGenerate.resx">
+      <DependentUpon>uGenerate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\uOnRegister.resx">
+      <DependentUpon>uOnRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actions\uRegister.resx">
+      <DependentUpon>uRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Affiliation.resx">
+      <DependentUpon>Affiliation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BluetoothDeviceChooser.resx">
+      <DependentUpon>BluetoothDeviceChooser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeUsername.resx">
+      <DependentUpon>ChangeUsername.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContactNumber.resx">
+      <DependentUpon>ContactNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initializer.resx">
+      <DependentUpon>Initializer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonnelDashboard.resx">
+      <DependentUpon>PersonnelDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UpdateName.resx">
+      <DependentUpon>UpdateName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulsu_colored.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bulsu_colored_drR_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
