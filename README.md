@@ -1,6 +1,7 @@
 ### Description
 .NET Application for managing seminars and events
-NOTE: This is the personnel side application only, for better usage. Also clone the https://github.com/martgil/Seminar-Monitoring-System-Admin-
+
+**NOTE:** This is the personnel side application only. For better usage, please clone the https://github.com/martgil/Seminar-Monitoring-System-Admin
 to manage administrative side.
 
 ### Software Dependencies and Requirements
